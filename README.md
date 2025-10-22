@@ -1,6 +1,8 @@
 # 🧩 Execução de Tarefas Automatizadas com AWS Lambda e S3
 
-![Arquitetura do projeto](./Lambda-e-S3.jpg)
+### Arquitetura (Diagrama)
+
+![Arquitetura-EC2](images/Lambda-e-S3.jpg)
 > *Figura 1 – Fluxo da arquitetura Lambda + S3 + DynamoDB*
 
 ---
