@@ -1,6 +1,6 @@
 # 🧩 Execução de Tarefas Automatizadas com AWS Lambda e S3
 
-Este repositório faz parte do desafio **"Executando Tarefas Automatizadas com Lambda Function e S3"** da [Digital Innovation One (DIO)](https://www.dio.me/).  
+Este repositório faz parte do desafio **"Executando Tarefas Automatizadas com Lambda Function e S3"** da [DIO](https://www.dio.me/).  
 O objetivo é demonstrar, de forma prática e documentada, como integrar **AWS Lambda** e **Amazon S3** para automatizar tarefas em um ambiente totalmente **serverless**.
 
 ---
