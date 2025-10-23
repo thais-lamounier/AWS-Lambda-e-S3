@@ -11,7 +11,7 @@ Abaixo, o diagrama representa o fluxo da arquitetura utilizada:
 
 **Figura 1 – Fluxo da arquitetura Lambda + S3 + DynamoDB**
 
-![Arquitetura](./images/Lambda e S3.jpg)
+![Arquitetura-EC2](images/Lambda-e-S3.jpg)
 
 1. Um arquivo é enviado para o bucket do **Amazon S3**.  
 2. Esse evento dispara automaticamente uma **função Lambda**.  
